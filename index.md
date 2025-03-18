@@ -51,16 +51,16 @@ Ethics Papers
 Presentations
 -------------
 
-### [Understand and Program Ripple Carry Adder]([/pdf/sample_presentation.pdf](https://www.youtube.com/watch?v=rz7mzGOvPls))
+### [Understand and Program Ripple Carry Adder](https://www.youtube.com/watch?v=rz7mzGOvPls)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 330 - Computer Architecture** 
+- **Grade: 86/100**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Understanding about Lazarusgroup (BlackHat Hacker)](https://www.youtube.com/watch?v=hv-pKcK4IMY)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 405 - Principles of Cybersecurity** 
+- **Grade: 95/100**
 
 ---
 
