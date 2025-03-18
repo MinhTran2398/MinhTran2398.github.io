@@ -4,25 +4,25 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:Mtran@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Broad Game Rental Project | CSCI 325 - Object-Oriented Programming](project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [User-Interface Project | CSCI 334 - User-Interface Programming](project1)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Encryption and Decryption | CSCI 452 - Network Pentestration Tesing](project1)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Clinvar Project | CSCI 495 - Systems Analysis & Software Design](project1)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Understand and Program Ripple Carry Adder]([/pdf/sample_presentation.pdf](https://www.youtube.com/watch?v=rz7mzGOvPls))
 
 - **Class:** 
 - **Grade:**
