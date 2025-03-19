@@ -6,7 +6,7 @@ Broad Game Rental Project
 -   **Class: CSCI 325 - Object-Oriented Programming** 
 -   **Grade: 92** 
 -   **Language(s): Python** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/MinhTran2398/CSCI325-Spring23---BoardGameRental) 
+-   **Source Code Repository:** [SCI325-Spring23---BoardGameRental](https://github.com/MinhTran2398/CSCI325-Spring23---BoardGameRental) 
     (Please [email me](mailto:Mtran@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
