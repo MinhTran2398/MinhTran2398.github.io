@@ -36,10 +36,10 @@ Ethics Papers
 -   **Class: CSCI 405: Principle of Cybersecurity** 
 -   **Grade: 100**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Copyright and Programmer](/pdf/CSCI 301-Copyright and Programmers.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 301 Survey of Scripting Languages** 
+-   **Grade: 92**
 
 ---
 
