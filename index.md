@@ -12,17 +12,17 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [User-Interface Project | CSCI 334 - User-Interface Programming](project1)
+### [User-Interface Project | CSCI 334 - User-Interface Programming](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Encryption and Decryption | CSCI 452 - Network Pentestration Tesing](project1)
+### [Encryption and Decryption | CSCI 452 - Network Pentestration Tesing](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Clinvar Project | CSCI 495 - Systems Analysis & Software Design](project1)
+### [Clinvar Project | CSCI 495 - Systems Analysis & Software Design](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
