@@ -9,22 +9,22 @@ Programming Projects
 ---
 ### [Broad Game Rental Project | CSCI 325 - Object-Oriented Programming](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/dummy_l.jpg)
 
 ---
 ### [User-Interface Project | CSCI 334 - User-Interface Programming](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/dummy_l.jpg)
 
 ---
 ### [Encryption and Decryption | CSCI 452 - Network Pentestration Tesing](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/dummy_.jpg)
 
 ---
 ### [Clinvar Project | CSCI 495 - Systems Analysis & Software Design](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/dummy_t.jpg)
 
 ---
 
