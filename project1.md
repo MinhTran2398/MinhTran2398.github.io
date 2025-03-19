@@ -1,13 +1,13 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Broad Game Rental Project
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class: CSCI 325 - Object-Oriented Programming** 
+-   **Grade: 92** 
+-   **Language(s): Python** 
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/MinhTran2398/CSCI325-Spring23---BoardGameRental) 
+    (Please [email me](mailto:Mtran@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
