@@ -31,10 +31,10 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Good Sides and Bad Sides of Memes](/pdf/CSCI 330-Ethicpaper.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 330-01: Computer Architecture**  
+-   **Grade: 100**
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
