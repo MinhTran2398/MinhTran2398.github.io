@@ -36,10 +36,10 @@ Ethics Papers
 -   **Class: CSCI 330-01: Computer Architecture**  
 -   **Grade: 100**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [The Edward Snowden/Wiki Leaks Scandal and Its Descriptive Analysis](/pdf/CSCI 405 -FirtsWhitePaper.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 405: Principle of Cybersecurity** 
+-   **Grade: 100**
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
