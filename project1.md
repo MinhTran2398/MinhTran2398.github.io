@@ -11,38 +11,26 @@ Broad Game Rental Project
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This Board Game Rental program is designed to provide a sample solution for renting out board games while managing inventory, customers, and financial transactions. It includes a robust storage system for games, categorizing them by genre, age range, and player requirements, as well as a customer management feature to track details like rental history and payment preferences. The program offers a manager control panel to oversee inventory, generate reports, and monitor cash flow, ensuring smooth operations. Additionally, it can print detailed receipts that include rental information, fees, and return instructions, possibly featuring QR codes for digital convenience. To enhance user experience, the program stores game instructions, such as rulebooks or step-by-step guides, and could even provide tutorial videos. With these features, the program aims to streamline the board game rental experience for both customers and managers.
+
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+1. **Download and Install NetBeans IDE**: Visit [NetBeans' official website](https://netbeans.apache.org/) to download the latest version suitable for your system (Windows, macOS, or Linux). Then, follow the provided instructions to install it.
 
-```bash
-cd ./project
-python setup.py
-```
+2. **Download or Clone the Project Files**: 
+   - Go to the repository page if the project is hosted on GitHub. (Please [email me](mailto:Mtran@csustudent.net?subject=GitHub%20Access) to request access.)
+   - Click the **Code** button and either download the ZIP file or use Git to clone the repository. For cloning, you can run the command:
+     ```
+     git clone <repository-url>
+     ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+3. **Open the Project in NetBeans**: 
+   - Launch NetBeans IDE.
+   - Navigate to **File > Open Project**, then locate the folder you downloaded/cloned from GitHub and select it.
 
-## UI Design
-
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
-
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+4. **Build and Run the Program**:
+   - Ensure all required dependencies or libraries are properly configured.
+   - Click on the **Run** button (or press `F6`), and the program should compile and execute.
 
 [Back to Portfolio](./)
