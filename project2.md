@@ -6,7 +6,7 @@ User-Interface Project
 -   **Class:** CSCI 334 User Interface Programming
 -   **Grade:** 95
 -   **Language(s):** Ruby, AWS compiler/ terminal
--   **Source Code Repository:** [features/mastering-markdown]((https://github.com/MinhTran2398/UIP-Project))  
+-   **Source Code Repository:** [User Interface Project]((https://github.com/MinhTran2398/UIP-Project))  
     (Please [email me](mailto:mtran@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
