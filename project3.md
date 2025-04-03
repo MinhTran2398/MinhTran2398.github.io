@@ -52,6 +52,7 @@ Fig 1. The Caesar Cipher
 Fig 2. Columnar Transpositions.
 
 ![screenshot](images/Screenshot 2025-04-03 100233.png)  
+![screenshot](images/dummy_thumbnail.jpg) 
 Fig 3. Task III. Cryptoanalysis.
 
 [Back to Portfolio](./)
