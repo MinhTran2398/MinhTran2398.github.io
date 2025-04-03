@@ -45,19 +45,13 @@ This is team Projects:
 
 3. [Task III. Cryptoanalysis ](https://youtu.be/Y9M4rtwOv1Q) 
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/Screenshot 2025-04-03 100259.png)  
 Fig 1. The Caesar Cipher
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/Screenshot 2025-04-03 100132.png)  
 Fig 2. Columnar Transpositions.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/Screenshot 2025-04-03 100233.png)  
 Fig 3. Task III. Cryptoanalysis.
-
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
