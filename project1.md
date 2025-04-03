@@ -29,7 +29,7 @@ This Board Game Rental program is designed to provide a sample solution for rent
    - Launch NetBeans IDE.
    - Navigate to **File > Open Project**, then locate the folder you downloaded/cloned from GitHub and select it.
 
-4. **Build and Run the Program**:
+4. **Run the Program**:
    - Ensure all required dependencies or libraries are properly configured.
    - Click on the **Run** button (or press `F6`), and the program should compile and execute.
 
