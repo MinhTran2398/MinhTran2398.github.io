@@ -1,34 +1,46 @@
 [Back to Portfolio](./)
 
-Project 23 Title
+Encryption and Decryption
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:** CSCI 452 Network Pentestration Testing
+-   **Grade:** 93
+-   **Language(s):** Python
+-   **Source Code Repository:** [Encryption and Decryption](https://github.com/MinhTran2398/pteh-proj2)  
+    (Please [email me](mailto:mtran@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This program is designed to create scripts that facilitate cryptographic operations, including encrypting, decrypting, and breaking encrypted messages. It employs methods like the Caesar cipher for basic substitution encryption, Columnar Transpositions for rearranging message contents, and Cryptoanalysis for breaking codes and uncovering plaintext from encrypted data.
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+To compile and run this program, follow these steps:
 
-```bash
-cd ./project
-python setup.py
-```
+1. **Clone the Code**: Access the GitHub repository containing the project and clone the code to your local system using:
+   ```
+   git clone <repository-url>
+   ```
+   Replace `<repository-url>` with the actual GitHub link.
+   
+(Please [email me](mailto:mtran@csustudent.net?subject=GitHub%20Access) to request access.)
+3. **Set Up Environment**: 
+   - Open the code in Visual Studio Code (VS Code), or use the terminal in Ubuntu or Kali Linux.
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+4. **Run the Program**:
+   - Navigate to the folder containing the code file using the terminal.
+   - Execute the script by running the following bash command:
+     ```
+     python3 ./<code file>
+     ```
+     Replace `<code file>` with the actual name of the Python file you want to run.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+To understand more about how to run and example for each method, I included link below:
+This is team Projects: 
+1. [Task I. The Caesar Cipher ](https://youtu.be/TWhJ_s86slY2) 
+2.[Task II. Columnar Transpositions ](https://youtu.be/L4pk8AoNRb0) 
+3. [Task III. Cryptoanalysis ](https://youtu.be/Y9M4rtwOv1Q) 
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
