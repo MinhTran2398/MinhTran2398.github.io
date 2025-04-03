@@ -45,14 +45,13 @@ This is team Projects:
 
 3. [Task III. Cryptoanalysis ](https://youtu.be/Y9M4rtwOv1Q) 
 
-![screenshot](images/Screenshot 2025-04-03 100259.png)  
+![screenshot](images/task1.png) 
 Fig 1. The Caesar Cipher
 
-![screenshot](images/Screenshot 2025-04-03 100132.png)  
+![screenshot](images/task2.png)
 Fig 2. Columnar Transpositions.
 
-![screenshot](images/Screenshot 2025-04-03 100233.png)  
-![screenshot](images/dummy_thumbnail.jpg) 
+![screenshot](images/task3.png) 
 Fig 3. Task III. Cryptoanalysis.
 
 [Back to Portfolio](./)
