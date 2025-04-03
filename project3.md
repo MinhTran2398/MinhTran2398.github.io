@@ -23,6 +23,7 @@ To compile and run this program, follow these steps:
    Replace `<repository-url>` with the actual GitHub link.
    
 (Please [email me](mailto:mtran@csustudent.net?subject=GitHub%20Access) to request access.)
+
 3. **Set Up Environment**: 
    - Open the code in Visual Studio Code (VS Code), or use the terminal in Ubuntu or Kali Linux.
 
@@ -38,18 +39,20 @@ To compile and run this program, follow these steps:
 
 To understand more about how to run and example for each method, I included link below:
 This is team Projects: 
-1. [Task I. The Caesar Cipher ](https://youtu.be/TWhJ_s86slY2) 
-2.[Task II. Columnar Transpositions ](https://youtu.be/L4pk8AoNRb0) 
+1. [Task I. The Caesar Cipher ](https://youtu.be/TWhJ_s86slY2)
+   
+2.[Task II. Columnar Transpositions ](https://youtu.be/L4pk8AoNRb0)
+
 3. [Task III. Cryptoanalysis ](https://youtu.be/Y9M4rtwOv1Q) 
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+Fig 1. The Caesar Cipher
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+Fig 2. Columnar Transpositions.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+Fig 3. Task III. Cryptoanalysis.
 
 ## 3. Additional Considerations
 
